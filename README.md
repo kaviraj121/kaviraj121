@@ -36,8 +36,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/kaviraj121/github-readme-stats"><img alt="Kavi Raj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaviraj121&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kaviraj121/github-readme-stats"><img alt="Kavi Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj121&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/kaviraj121/github-readme-stats"><img alt="Kavi Raj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaviraj121&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kavi Raj's github stats" / /></a>
+  <a href="https://github.com/kaviraj121/github-readme-stats"><img alt="Kavi Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj121&layout=compact&theme=buefy&hide_border=true" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,4 +56,6 @@
 <a href = "https://www.linkedin.com/in/kavi-raj-183660125/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
+
+
 
